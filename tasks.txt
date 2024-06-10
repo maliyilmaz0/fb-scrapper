@@ -1,0 +1,21 @@
+login opsiyonel SETTINGS TABLOSU ?, OK
+
+
+post count opsiyonel ENV OLABİLİR YADA SETTİNGSTE TUTULABİLİR, SETTINGS OK
+
+page list,
+
+
+!! PAGE LİSTESİ BELİRSİZ OTOMATİKTE ÇEKİLEBİLİR MANUEL FRONTTANDA GELEBİLİR ??
+
+
+database şeması yapılmadı yapılacak 1/2 OK
+
+script toparlanacak 1/2 OK
+
+script işi bittikten sonra db ye veriyi yazacak
+
+router tarafı db den veriyi çekip arayüze şutlayacak
+
+GRUP KISMI DENENMEDİ ?
+
