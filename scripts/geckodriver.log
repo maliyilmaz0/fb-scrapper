@@ -1591,3 +1591,855 @@ DevTools listening on ws://127.0.0.1:49835/devtools/browser/60d84ab6-e87e-43ac-b
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yn/l/tr_TR/Njkgyxz1rZv.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1718004579610	Marionette	INFO	Stopped listening on port 49857
 Dynamically enable window occlusion 1
+1718570518917	geckodriver	INFO	Listening on 127.0.0.1:56480
+1718570521994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofileaFncbt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718570524784	Marionette	INFO	Marionette enabled
+1718570524849	Marionette	INFO	Listening on port 56494
+WebDriver BiDi listening on ws://127.0.0.1:56481
+Read port: 56494
+1718570524958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56481/devtools/browser/1318c01b-d2bc-4cfc-b184-be9982a7f178
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig0R4/yl/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79rKRIJF0Sy5Bn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08FRcUrBhGlkbD4xJufoh9N8p.js?_nc_x=nzUPqFsac6S, line 625: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718570554811	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1718570642447	Marionette	INFO	Stopped listening on port 56494
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S, line 238: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:238:208
+H@https://static.xx.fbcdn.net/rsrc.php/v3ivld4/yO/l/rt/aKGZ5NEImtPsMhJ2UeyV2Ny6mU-AoSdwgh5_4-H4nOceCnnXL0TJN4BXzBRl2hbD8vUmeBxV5568b1qobJq0NnPQI8P2nZcXGLKiiKA8TAzBlj8G1ziJfWojp0K0sEZzBU1aLh2OoELDM2fmMs8iOzADXy.js?_nc_x=nzUPqFsac6S:203:6397
+a@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:238:130
+a@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:239:182
+a/</<@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:253:639
+r@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:345:5585
+a/E/</y[b].last.value.code<@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:345:4117
+a@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:345:4024
+a/runExclusively/</</f</<@https://static.xx.fbcdn.net/rsrc.php/v3i6SH4/yX/l/rt/3kib6O_gFj8M3sHXQuKgT3qv6fAg11dEGfLi1AMMI_M8Led_07b4v_wAo1GsB7uK4UxBpHvaeopDbtZk_QpuuJs_v12dONEC0BF0DiwLyhvkB-QOTnVcKj4BBkE8liWuER8SysHj6ICxCk3jqo3nNeZ8t8uTPM8N6loPgl12OPD12PY80Oqtc5RAFGsQ4lABuhNLC1MnZ7Q3IIVA_jVrnckSDPmXOHEHcnfPBBIio0bvWlszlSdyKto4USOd7yFudYJRCVpk_ue34p5axdiQbN3WlgHDRfPUsvBThSm0m16Bb5V-uIFoX6cg_lpyVxfXcMT6aSLmRN.js?_nc_x=nzUPqFsac6S:41:1323
+h@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:426:125
+g@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:426:350
+
+Dynamically enable window occlusion 1
+1718571324777	geckodriver	INFO	Listening on 127.0.0.1:57614
+1718571327842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofile9K1WdC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718571330768	Marionette	INFO	Marionette enabled
+1718571330835	Marionette	INFO	Listening on port 57691
+WebDriver BiDi listening on ws://127.0.0.1:57616
+Read port: 57691
+1718571330949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57616/devtools/browser/cc151cbe-9047-4a51-9160-02e5165bc18b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDJavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz, line 69: Script terminated by timeout at:
+pushGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+tps://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz:324:1683
+
+1718571358107	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1718571415996	geckodriver	INFO	Listening on 127.0.0.1:58009
+1718571419073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofilea13RGg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718571425959	Marionette	INFO	Marionette enabled
+1718571426076	Marionette	INFO	Listening on port 58183
+WebDriver BiDi listening on ws://127.0.0.1:58006
+Read port: 58183
+1718571426208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58006/devtools/browser/5cdaa892-e720-4369-8757-d1257b166a63
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use REND17185711718571457236	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a validJavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz, line 78: Script terminated by timeout at:
+c.__emitToSubscription@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjSJavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+69:10432
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz:324:2086
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+cript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1718571491292	geckodriver	INFO	Listening on 127.0.0.1:58486
+1718571494361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofilejp9ZOd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718571496414	Marionette	INFO	Marionette enabled
+1718571496478	Marionette	INFO	Listening on port 58545
+WebDriver BiDi listening on ws://127.0.0.1:58484
+Read port: 58545
+1718571496745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58484/devtools/browser/5e203886-2be4-42b4-85b4-f29ffd06a2dd
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iTiG4/yJ/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79rKRIJF0Sy5Bn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08F.js?_nc_x=nzUPqFsac6S, line 625: WEBGL_debug_renderer_info is deprecated in Firefox and will be removJavaScript warning: https:1718571526580	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718571526053	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+n.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz, line 324: Script terminated by timeout at:
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz:324:1985
+
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+console.error: (new TypeError("toggle is null", "resource://gre/actors/PictureInPictureChild.sys.mjs", 1293))
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S, line 1120: Script terminated by timeout at:
+Jf@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:1120:49587
+Lf@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:1120:49810
+f.useEffect@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:498:9363
+a@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:728:835
+a@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:730:464
+a@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:733:3533
+We@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:1120:42074
+Tg@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:1120:67675
+mh@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:1120:79333
+kk@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:1120:126760
+hk@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:1120:125892
+gk@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:1120:125719
+Qj@https://static.xx.fbcdn.net/rsrc.php/v3ihgX4/ym/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9.js?_nc_x=nzUPqFsac6S:1120:121984
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/4S9rAtJuKBK.js?_nc_x=nzUPqFsac6S:70:10432
+c@https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/4S9rAtJuKBK.js?_nc_x=nzUPqFsac6S:70:11166
+O@https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/4S9rAtJuKBK.js?_nc_x=nzUPqFsac6S:223:2292
+U@https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/4S9rAtJuKBK.js?_nc_x=nzUPqFsac6S:223:2893
+
+1718571561330	Marionette	INFO	Stopped listening on port 58517
+Dynamically enable window occlusion 1
+1718571591289	geckodriver	INFO	Listening on 127.0.0.1:59082
+1718571594355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofiletmQ7no"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718571601176	Marionette	INFO	Marionette enabled
+1718571601233	Marionette	INFO	Listening on port 59185
+WebDriver BiDi listening on ws://127.0.0.1:59079
+Read port: 59185
+1718571601334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59079/devtools/browser/9095b849-4e7a-4fee-ad0e-e1ad91263723
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718571631208	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+rror: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+date list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1718571816410	geckodriver	INFO	Listening on 127.0.0.1:59653
+1718571819478	mozrunner::runner	INFO	Running command: "C:\\P1718571820472	mozrunner::runner	INFO	Running command: "C:\\P1718571820640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59662" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofileW276mR"
+console.warn: services.settings: Ignoring preference override of remotDynamically enable window occlusion 0
+1718571826142	Marionette	INFO	Marionette enabled
+1718571826200	Marionette	INFO	LDynamically enable window occlusion 0
+1718571827662	Marionette	INFO	Marionette enabled
+1718571827722	Marionette	INFO	Listening on port 59742
+WebDriver BiDi listening on ws://127.0.0.1:59662
+Read port: 59742
+1718571827836	RemoteAgent	WARN	TLS certificate errors will be ignoJavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_ncconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i1718571853104	addons.xpi	ERROR	System addon update list erroJavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig-1718571856182	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1718571926839	Marionette	INFO	Stopped 1718571929398	Marionette	INFO	Stopped listening on port 59687
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S, line 32: Script terminated by timeout at:
+iterator@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:32:982
+B@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:32:12826
+a/</e<@https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/77v_C0Fvu5U.js?_nc_x=nzUPqFsac6S:85:1816
+h@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:426:125
+g@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:426:350
+a/</<@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:426:409
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:426:277
+a/</<@https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/77v_C0Fvu5U.js?_nc_x=nzUPqFsac6S:85:1971
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/77v_C0Fvu5U.js?_nc_x=nzUPqFsac6S:85:1713
+a/w/<@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:2892
+w@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:2865
+r@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:401:7081
+
+Dynamically enable window occlusion 1
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S, line 1120: Script terminated by timeout at:
+Na@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:5585
+Oa@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:6364
+Pa@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kJavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+1718571963488	Marionette	INFO	Stopped listening on port 59742
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig-94/yP/l/rt/z90G0juQ08FRcUrBhGlkbD4xJufoh9N8pM9AS1b9hJC8GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfwDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5.js?_nc_x=nzUPqFsac6S, line 549: Script terminated by timeout at:
+b.table@https://static.xx.fbcdn.net/rsrc.php/v3ig-94/yP/l/rt/z90G0juQ08FRcUrBhGlkbD4xJufoh9N8pM9AS1b9hJC8GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfwDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5.js?_nc_x=nzUPqFsac6S:549:13312
+c.$ReStoreTransactionTable$p_13@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:25:6181
+p@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:27:1764
+b/n.add/b</<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:25:2093
+c.$ReStoreTransactionTable$p_12/b<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:25:6075
+b.chainPromiseOrValue/d</b.$1<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:22:595
+
+Dynamically enable window occlusion 1
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S, line 1120: Script terminated by timeout at:
+Na@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:5585
+Oa@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:6364
+Pa@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:6504
+Zc@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:25072
+Y@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:130058
+ki@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:97123
+oi@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:99254
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118503
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118485
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118485
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118485
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+fj@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118687
+ej@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:1120:118415
+
+1718572076021	geckodriver	INFO	Listening on 127.0.0.1:60586
+1718572079087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofileAnTDbk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718572087261	geckodriver	INFO	Listening on 127.0.0.1:60616
+1718572090324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofile7orrxd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718572092887	Marionette	INFO	Marionette enabled
+1718572092942	Marionette	INFO	Listening on port 60637
+WebDriver BiDi listening on ws://127.0.0.1:60617
+Read port: 60637
+1718572093032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60617/devtools/browser/7c2ee4de-5058-4ce2-8a80-6011d644caf9
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718572120422	Marionette	INFO	Stopped listening on port 60637
+Dynamically enable window occlusion 1
+1718572149029	geckodriver	INFO	Listening on 127.0.0.1:60766
+1718572152105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofileT3plH3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718572155053	Marionette	INFO	Marionette enabled
+1718572155107	Marionette	INFO	Listening on port 60782
+WebDriver BiDi listening on ws://127.0.0.1:60767
+Read port: 60782
+1718572155207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60767/devtools/browser/b35bd951-20d7-4c22-b83f-53bbaecaae80
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig0R4/yl/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79rKRIJF0Sy5Bn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08FRcUrBhGlkbD4xJufoh9N8p.js?_nc_x=nzUPqFsac6S, line 625: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718572185063	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig0R4/yl/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79rKRIJF0Sy5Bn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08FRcUrBhGlkbD4xJufoh9N8p.js?_nc_x=nzUPqFsac6S, line 625: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718572198315	Marionette	INFO	Stopped listening on port 60782
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/4S9rAtJuKBK.js?_nc_x=nzUPqFsac6S, line 176: Script terminated by timeout at:
+r@https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/4S9rAtJuKBK.js?_nc_x=nzUPqFsac6S:176:602
+u/a.port1.onmessage@https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/4S9rAtJuKBK.js?_nc_x=nzUPqFsac6S:176:1442
+
+Dynamically enable window occlusion 1
+1718572410869	geckodriver	INFO	Listening on 127.0.0.1:61051
+1718572413943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61052" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofileI7uHG2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718572416605	Marionette	INFO	Marionette enabled
+1718572416760	Marionette	INFO	Listening on port 61076
+WebDriver BiDi listening on ws://127.0.0.1:61052
+Read port: 61076
+1718572416885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61052/devtools/browser/5eccec14-86fd-4f14-a5c8-640ab2105eb5
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig0R4/yl/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79rKRIJF0Sy5Bn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08FRcUrBhGlkbD4xJufoh9N8p.js?_nc_x=nzUPqFsac6S, line 625: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718572446631	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz, line 324: Script terminated by timeout at:
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz:324:1985
+
+1718572516903	Marionette	INFO	Stopped listening on port 61076
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S, line 342: Script terminated by timeout at:
+a@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:342:13703
+createTransaction@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:342:14475
+r@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:345:5356
+a/E/</y[b].last.value.code<@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:345:4117
+a@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:345:4024
+a/runExclusively/</</f</<@https://static.xx.fbcdn.net/rsrc.php/v3i6SH4/yX/l/rt/3kib6O_gFj8M3sHXQuKgT3qv6fAg11dEGfLi1AMMI_M8Led_07b4v_wAo1GsB7uK4UxBpHvaeopDbtZk_QpuuJs_v12dONEC0BF0DiwLyhvkB-QOTnVcKj4BBkE8liWuER8SysHj6ICxCk3jqo3nNeZ8t8uTPM8N6loPgl12OPD12PY80Oqtc5RAFGsQ4lABuhNLC1MnZ7Q3IIVA_jVrnckSDPmXOHEHcnfPBBIio0bvWlszlSdyKto4USOd7yFudYJRCVpk_ue34p5axdiQbN3WlgHDRfPUsvBThSm0m16Bb5V-uIFoX6cg_lpyVxfXcMT6aSLmRN.js?_nc_x=nzUPqFsac6S:41:1323
+h@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:426:125
+g@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:426:350
+
+Dynamically enable window occlusion 1
+1718572624991	geckodriver	INFO	Listening on 127.0.0.1:61356
+1718572628053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofile7azvyu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718572634571	Marionette	INFO	Marionette enabled
+1718572634627	Marionette	INFO	Listening on port 61373
+WebDriver BiDi listening on ws://127.0.0.1:61357
+Read port: 61373
+1718572634734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61357/devtools/browser/7bfbdbb1-6862-490f-87ce-340c556f395b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig0R4/yl/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79rKRIJF0Sy5Bn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08FRcUrBhGlkbD4xJufoh9N8p.js?_nc_x=nzUPqFsac6S, line 625: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718572664786	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1718572904551	geckodriver	INFO	Listening on 127.0.0.1:62012
+1718572907617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofile9ypkhI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718572915166	Marionette	INFO	Marionette enabled
+1718572915237	Marionette	INFO	Listening on port 62038
+WebDriver BiDi listening on ws://127.0.0.1:62013
+Read port: 62038
+1718572915356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62013/devtools/browser/453cedfe-41b1-46b2-8c7b-b4a98a258896
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig0R4/yl/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79rKRIJF0Sy5Bn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08FRcUrBhGlkbD4xJufoh9N8p.js?_nc_x=nzUPqFsac6S, line 625: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718572945209	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1718573014246	Marionette	INFO	Stopped listening on port 62038
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S, line 342: Script terminated by timeout at:
+b.$13@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:342:2251
+next@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:342:9572
+next@https://static.xx.fbcdn.net/rsrc.php/v3ipIC4/yi/l/rt/GqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XGfoCKc4Kad-b.js?_nc_x=nzUPqFsac6S:342:11679
+next@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:27:985
+i@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:22:881
+a/next/<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:22:978
+b.chainPromiseOrValue/d</b.$1<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:22:595
+
+Dynamically enable window occlusion 1
+1718573082121	geckodriver	INFO	Listening on 127.0.0.1:62394
+1718573085194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6239 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofileFBwSdC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718573087760	Marionette	INFO	Marionette enabled
+1718573087801	Marionette	INFO	Listening on port 62409
+WebDriver BiDi listening on ws://127.0.0.1:62395
+Read port: 62409
+1718573087900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62395/devtools/browser/84d1511e-77cd-4152-9671-51962611713e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig0R4/yl/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79rKRIJF0Sy5Bn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08FRcUrBhGlkbD4xJufoh9N8p.js?_nc_x=nzUPqFsac6S, line 625: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718573117789	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz, line 78: Script terminated by timeout at:
+c.emit@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz:78:1074
+@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz:329:1059
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz:69:10432
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/KS4-nrKMTjS.js?_nc_x=Ij3Wp8lg5Kz:324:2086
+
+1718573186016	Marionette	INFO	Stopped listening on port 62409
+Dynamically enable window occlusion 1
+1718573260547	geckodriver	INFO	Listening on 127.0.0.1:62714
+1718573263602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6271 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofile3HPSPU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718573269743	Marionette	INFO	Marionette enabled
+1718573269784	Marionette	INFO	Listening on port 62804
+WebDriver BiDi listening on ws://127.0.0.1:62713
+Read port: 62804
+1718573269881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62713/devtools/browser/5e7dbd49-ab86-4195-85a3-68a4ca4d76a5
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718573300311	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718573349242	Marionette	INFO	Stopped listening on port 62804
+Dynamically enable window occlusion 1
+vaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuL1718573360223	Marionette	INFO	Stopped listening on port 62737
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S, line 398: Script terminated by timeout at:
+l@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:398:8586
+next@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:398:9614
+next@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:398:11444
+next@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:27:985
+i@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:22:881
+a/next/<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:22:978
+b.chainPromiseOrValue@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:22:372
+next@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:22:939
+next@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:32:10305
+A/<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:32:12679
+i@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:24:566
+A@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:32:12622
+a/</f<@https://static.xx.fbcdn.net/rsrc.php/v3ifTT4/yG/l/rt/p2tYjvfkfhC.js?_nc_x=nzUPqFsac6S:32:495
+q@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:739
+f@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:4625
+q@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:739
+a/r/<@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:1512
+r@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:1473
+j@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:1945
+u@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:2217
+v@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:400:2661
+a/H/r/</<@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:401:6833
+i@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:24:566
+a/H/r/<@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:401:6701
+i@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:24:566
+r@https://static.xx.fbcdn.net/rsrc.php/v3i6nS4/yU/l/rt/RcUrBhGlkbD4xJufoh9N8pGqnX_qetLSuA5-wLK-UUxM6rZqg3znnQAbA-FUb3yz7kUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyUr5gg_wmzVAr51pX69OkwaWBXaoYEF-c7172okLVd3xPXMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:401:6552
+
+Dynamically enable window occlusion 1
+1718573362396	geckodriver	INFO	Listening on 127.0.0.1:63086
+1718573365452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6308 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofilehxmcdW"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718573365748	Marionette	INFO	Marionette enabled
+1718573365792	Marionette	INFO	Listening on port 63106
+WebDriver BiDi listening on ws://127.0.0.1:63085
+Read port: 63106
+1718573365891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63085/devtools/browser/c53bf67d-e2c3-407b-9d41-35bc75a26c6a
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDBq4/yq/l/tr_TR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDBq4/yq/l/tr_TR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDBq4/yq/l/tr_TR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718573396502	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDBq4/yq/l/tr_TR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDBq4/yq/l/tr_TR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDBq4/yq/l/tr_TR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDBq4/yq/l/tr_TR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDBq4/yq/l/tr_TR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718573432040	Marionette	INFO	Stopped listening on port 63106
+Dynamically enable window occlusion 1
+1718573550249	geckodriver	INFO	Listening on 127.0.0.1:63846
+1718573553310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6384 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofile9O7Njl"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718573560455	Marionette	INFO	Marionette enabled
+1718573560495	Marionette	INFO	Listening on port 63950
+WebDriver BiDi listening on ws://127.0.0.1:63841
+Read port: 63950
+1718573560596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63841/devtools/browser/c402cd4e-8af1-4298-bebf-1e2878094e2b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718573590803	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+1718574418055	geckodriver	INFO	Listening on 127.0.0.1:64784
+1718574421134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6478 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofile0OPSLl"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718574427493	Marionette	INFO	Marionette enabled
+1718574427533	Marionette	INFO	Listening on port 64874
+WebDriver BiDi listening on ws://127.0.0.1:64786
+Read port: 64874
+1718574427631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64786/devtools/browser/d0eb44ff-f8ef-41dc-ad7f-0250e1ba5070
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574458124	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574502481	Marionette	INFO	Stopped listening on port 64811
+Dynamically enable window occlusion 1
+rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc1718574521089	Marionette	INFO	Stopped listening on port 64812
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S, line 27: Script terminated by timeout at:
+n/<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:27:646
+n@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:27:593
+c.$ReStoreTransactionTable$p_13@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:25:6406
+p@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:27:1764
+b/n.add/b</<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:25:2093
+c.$ReStoreTransactionTable$p_12/b<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:25:6075
+b.chainPromiseOrValue/d</b.$1<@https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/kqgdw9aG5ev.js?_nc_x=nzUPqFsac6S:22:595
+
+Dynamically enable window occlusion 1
+R.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574517495	Marionette	INFO	Stopped listening on port 64874
+Dynamically enable window occlusion 1
+1718574644610	geckodriver	INFO	Listening on 127.0.0.1:65233
+1718574647682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6523 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofile0BEhd3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718574653823	Marionette	INFO	Marionette enabled
+1718574653864	Marionette	INFO	Listening on port 65331
+WebDriver BiDi listening on ws://127.0.0.1:65237
+Read port: 65331
+1718574653962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:65237/devtools/browser/d49f0179-7841-464a-91c2-e4a55744855e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574684392	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be re1718574729703	Marionette	INFO	Stopped listening on port 65264
+Dynamically enable window occlusion 1
+TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574742382	Marionette	INFO	Stopped listening on port 65331
+Dynamically enable window occlusion 1
+vaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574731518	Marionette	INFO	Stopped listening on port 65263
+Dynamically enable window occlusion 1
+1718574773398	geckodriver	INFO	Listening on 127.0.0.1:49214
+1718574776466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4921 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofileWnQo2h"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718574782238	Marionette	INFO	Marionette enabled
+1718574782278	Marionette	INFO	Listening on port 49308
+WebDriver BiDi listening on ws://127.0.0.1:49211
+Read port: 49308
+1718574782373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49211/devtools/browser/edbaf624-a6dd-4d18-984f-8597bd59904b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574812818	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/1718574862082	Marionette	INFO	Stopped listening on port 49240
+Dynamically enable window occlusion 1
+ and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574872504	Marionette	INFO	Stopped listening on port 49308
+Dynamically enable window occlusion 1
+vaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574861847	Marionette	INFO	Stopped listening on port 49241
+Dynamically enable window occlusion 1
+1718574900057	geckodriver	INFO	Listening on 127.0.0.1:50066
+1718574903117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofilevrxYag"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718574909463	Marionette	INFO	Marionette enabled
+1718574909544	Marionette	INFO	Listening on port 50775
+WebDriver BiDi listening on ws://127.0.0.1:50067
+Read port: 50775
+1718574909678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50067/devtools/browser/26356738-72c4-462f-9aef-00768a65a37f
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718574939511	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1718574943924	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1718575022289	Marionette	INFO	Stopped listening on port 50775
+Dynamically enable window occlusion 1
+	Marionette	INFO	Stopped listening on port 50090
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S, line 233: Script terminated by timeout at:
+o@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:233:270
+p@https://static.xx.fbcdn.net/rsrc.php/v3iXDg4/y9/l/rt/zG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBJdzP9E2O2Alislj-wwf_-JEtIOMS_jeNQLjzOAHCck9v7pGw1Z0geScZQllFv7EHEldp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acw_G0c3NB-1c0WUOk5yl7SvLlfhJg0j9rY8.js?_nc_x=nzUPqFsac6S:233:796
+
+Dynamically enable window occlusion 1
+1718575114597	geckodriver	INFO	Listening on 127.0.0.1:51375
+1718575117662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofilevbKv47"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718575125043	Marionette	INFO	Marionette enabled
+1718575125098	Marionette	INFO	Listening on port 51527
+WebDriver BiDi listening on ws://127.0.0.1:51370
+Read port: 51527
+1718575125200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51370/devtools/browser/d57b512a-58f5-4d80-89d2-9da3ddb40489
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718575155689	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be re1718575211885	Marionette	INFO	Stopped listening on port 51400
+Dynamically enable window occlusion 1
+y enable window occlusion 1
+vaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718575205046	Marionette	INFO	Stopped listening on port 51399
+Dynamically enable window occlusion 1
+1718575305220	geckodriver	INFO	Listening on 127.0.0.1:51842
+1718575316670	geckodriver	INFO	Listening on 127.0.0.1:51873
+1718575319712	mozrunner::runner	INFO	Running command: "C:\\P1718575319754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\console.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow byDynamically enable window occlusion 0
+1718575327139	Marionette	INFO	Marionette enabled
+1718575327270	Marionette	INFO	Listening on port 51998
+WebDriver BiDi listening on ws://127.0.0.1:51874
+Read port: 51998
+1718575327398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51874/devtools/browser/d6dbe4f8-1ae2-4b1a-88de-9c7b884837c7
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718575358416	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be re1718575404419	Marionette	INFO	Stopped listening on port 51901
+Dynamically enable window occlusion 1
+TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is1718575417526	Marionette	INFO	Stopped listening on port 51902
+Dynamically enable window occlusion 1
+x.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718575411082	Marionette	INFO	Stopped listening on port 51998
+Dynamically enable window occlusion 1
+1718575468541	geckodriver	INFO	Listening on 127.0.0.1:52364
+1718575471609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofile2AHQHG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718575478185	Marionette	INFO	Marionette enabled
+1718575478241	Marionette	INFO	Listening on port 52517
+WebDriver BiDi listening on ws://127.0.0.1:52365
+Read port: 52517
+1718575478345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52365/devtools/browser/f87b2426-381b-4eb4-9cd8-74fcd771a20e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iiJG4/yV/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79w_RSSjh4nQSn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08F.js?_nc_x=nzUPqFsac6S, line 657: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718575508210	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1718575566721	Marionette	INFO	Stopped listening on port 52517
+Dynamically enable window occlusion 1
+ROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will bJavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to access property "ownerDocument"
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 19: Error: Permission denied to acJavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_1718575572440	Marionette	INFO	Stopped listening on port 52390
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i3PZ4/yZ/l/rt/Lh2OoELDM2fLjzOAHCck9vmMs8iOzADXy7pGw1Z0geSc3kib6O_gFj8ZQllFv7EHElM3sHXQuKgT3dp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_fLi1AMMI_M8Ao1GsB7uK4UxBpHvaeopDbtZk_QpuuJs_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acwv12dONEC0BF_G0c3NB-1c0WUOk5yl7SvLjqo3nNeZ8t8lfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9GgIDc-ll5ZGCm6O8GBTF5UkcabYEniiZp.js?_nc_x=nzUPqFsac6S, line 333: Script terminated by timeout at:
+G@https://static.xx.fbcdn.net/rsrc.php/v3i3PZ4/yZ/l/rt/Lh2OoELDM2fLjzOAHCck9vmMs8iOzADXy7pGw1Z0geSc3kib6O_gFj8ZQllFv7EHElM3sHXQuKgT3dp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_fLi1AMMI_M8Ao1GsB7uK4UxBpHvaeopDbtZk_QpuuJs_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acwv12dONEC0BF_G0c3NB-1c0WUOk5yl7SvLjqo3nNeZ8t8lfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9GgIDc-ll5ZGCm6O8GBTF5UkcabYEniiZp.js?_nc_x=nzUPqFsac6S:333:1053
+k@https://static.xx.fbcdn.net/rsrc.php/v3i3PZ4/yZ/l/rt/Lh2OoELDM2fLjzOAHCck9vmMs8iOzADXy7pGw1Z0geSc3kib6O_gFj8ZQllFv7EHElM3sHXQuKgT3dp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_fLi1AMMI_M8Ao1GsB7uK4UxBpHvaeopDbtZk_QpuuJs_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acwv12dONEC0BF_G0c3NB-1c0WUOk5yl7SvLjqo3nNeZ8t8lfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9GgIDc-ll5ZGCm6O8GBTF5UkcabYEniiZp.js?_nc_x=nzUPqFsac6S:124:3033
+k/<@https://static.xx.fbcdn.net/rsrc.php/v3i3PZ4/yZ/l/rt/Lh2OoELDM2fLjzOAHCck9vmMs8iOzADXy7pGw1Z0geSc3kib6O_gFj8ZQllFv7EHElM3sHXQuKgT3dp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_fLi1AMMI_M8Ao1GsB7uK4UxBpHvaeopDbtZk_QpuuJs_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acwv12dONEC0BF_G0c3NB-1c0WUOk5yl7SvLjqo3nNeZ8t8lfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9GgIDc-ll5ZGCm6O8GBTF5UkcabYEniiZp.js?_nc_x=nzUPqFsac6S:124:3199
+k@https://static.xx.fbcdn.net/rsrc.php/v3i3PZ4/yZ/l/rt/Lh2OoELDM2fLjzOAHCck9vmMs8iOzADXy7pGw1Z0geSc3kib6O_gFj8ZQllFv7EHElM3sHXQuKgT3dp_fTrJqSw4yal2EPG_iKTarP1s1n-8O5VqdyCYtMOPpDlGFaUZyiS_fLi1AMMI_M8Ao1GsB7uK4UxBpHvaeopDbtZk_QpuuJs_t3PehXyjXIVfuoqzREisUjF4mCBUm6Acwv12dONEC0BF_G0c3NB-1c0WUOk5yl7SvLjqo3nNeZ8t8lfhJg0j9rY8rgHjiuioTk4UXsJUveZYxDMAs5RL54Gz9GgIDc-ll5ZGCm6O8GBTF5UkcabYEniiZp.js?_nc_x=nzUPqFsac6S:124:3113
+a<@https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/77v_C0Fvu5U.js?_nc_x=nzUPqFsac6S:86:4263
+h@https://static.xx.fbcdn.net/rsrc.php/v3in3b4/yf/l/rt/3vtk0L7-wlozG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBkqgdw9aG5evJdzP9E2O2AlOposjNOP-36aKGZ5NEImtPCnnXL0TJN4BUmeBxV5568b1qobJq0NnPQI8P2nZcXGLKislj-wwf_-JEtIOMS_jeNQ.js?_nc_x=nzUPqFsac6S:803:125
+g@https://static.xx.fbcdn.net/rsrc.php/v3in3b4/yf/l/rt/3vtk0L7-wlozG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBkqgdw9aG5evJdzP9E2O2AlOposjNOP-36aKGZ5NEImtPCnnXL0TJN4BUmeBxV5568b1qobJq0NnPQI8P2nZcXGLKislj-wwf_-JEtIOMS_jeNQ.js?_nc_x=nzUPqFsac6S:803:350
+
+Dynamically enable window occlusion 1
+1718575632520	geckodriver	INFO	Listening on 127.0.0.1:52946
+1718575635560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehmet\\AppData\\Local\\Temp\\rust_mozprofileUPAxIn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718575638122	Marionette	INFO	Marionette enabled
+1718575638180	Marionette	INFO	Listening on port 52959
+WebDriver BiDi listening on ws://127.0.0.1:52947
+Read port: 52959
+1718575638437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52947/devtools/browser/26d969a0-3c96-4405-bef7-c5cfe2e6f612
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i4MC4/yl/l/tr_TR/Bu8_ZdmuLtK.js?_nc_x=Ij3Wp8lg5Kz, line 256: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ig0R4/yl/l/rt/l5fqLJvUDD3QDBdntLNlXYvuArT9y9oNL5nd90_gPb8EPiT9l_tZZ79rKRIJF0Sy5Bn8ReVJO9Xfp7WbJrOmeg3-z90G0juQ08FRcUrBhGlkbD4xJufoh9N8p.js?_nc_x=nzUPqFsac6S, line 625: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1718575668139	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1718575742299	Marionette	INFO	Stopped listening on port 52959
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iS2u4/yW/l/rt/z90G0juQ08FRcUrBhGlkbD4xJufoh9N8poTZ1LUGvZU5A5-wLK-UUxM6rZqg3znnQAUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyU51pX69OkwaWysHj6ICxCk372okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S, line 422: Script terminated by timeout at:
+b.$17@https://static.xx.fbcdn.net/rsrc.php/v3iS2u4/yW/l/rt/z90G0juQ08FRcUrBhGlkbD4xJufoh9N8poTZ1LUGvZU5A5-wLK-UUxM6rZqg3znnQAUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyU51pX69OkwaWysHj6ICxCk372okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:422:2979
+b.$19@https://static.xx.fbcdn.net/rsrc.php/v3iS2u4/yW/l/rt/z90G0juQ08FRcUrBhGlkbD4xJufoh9N8poTZ1LUGvZU5A5-wLK-UUxM6rZqg3znnQAUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyU51pX69OkwaWysHj6ICxCk372okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:422:3446
+next@https://static.xx.fbcdn.net/rsrc.php/v3iS2u4/yW/l/rt/z90G0juQ08FRcUrBhGlkbD4xJufoh9N8poTZ1LUGvZU5A5-wLK-UUxM6rZqg3znnQAUefxzKRvvfw8YVzPqbJOsCDGKAmANGYhdya6kKlv6e2dXikGauzVybHCVuTo-JlLhwCcUGwqZYqa7Acrlrgo0llXkb7aK4HNjca6_ir0R0JtQEIea5aJ-nIasYgnSGyeqSyU51pX69OkwaWysHj6ICxCk372okLVd3xPXWEVKgx-LfQGMfnkQK2FgJVv7E64P7F26J6FO5zY24sCY4FdSdBOqTMXqOK_ruBO4ecq2NtTlIlypfq8J6BnRB2x5EjuBozoF6XG.js?_nc_x=nzUPqFsac6S:422:11747
+next@https://static.xx.fbcdn.net/rsrc.php/v3in3b4/yf/l/rt/3vtk0L7-wlozG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBkqgdw9aG5evJdzP9E2O2AlOposjNOP-36aKGZ5NEImtPCnnXL0TJN4BUmeBxV5568b1qobJq0NnPQI8P2nZcXGLKislj-wwf_-JEtIOMS_jeNQ.js?_nc_x=nzUPqFsac6S:1629:985
+i@https://static.xx.fbcdn.net/rsrc.php/v3in3b4/yf/l/rt/3vtk0L7-wlozG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBkqgdw9aG5evJdzP9E2O2AlOposjNOP-36aKGZ5NEImtPCnnXL0TJN4BUmeBxV5568b1qobJq0NnPQI8P2nZcXGLKislj-wwf_-JEtIOMS_jeNQ.js?_nc_x=nzUPqFsac6S:1624:881
+a/next/<@https://static.xx.fbcdn.net/rsrc.php/v3in3b4/yf/l/rt/3vtk0L7-wlozG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBkqgdw9aG5evJdzP9E2O2AlOposjNOP-36aKGZ5NEImtPCnnXL0TJN4BUmeBxV5568b1qobJq0NnPQI8P2nZcXGLKislj-wwf_-JEtIOMS_jeNQ.js?_nc_x=nzUPqFsac6S:1624:978
+b.chainPromiseOrValue/d</b.$1<@https://static.xx.fbcdn.net/rsrc.php/v3in3b4/yf/l/rt/3vtk0L7-wlozG502kC8WrMbt3oh1M55HtbROB2p28td_DbvIF1Oh8ePl35ghYjS-9JG30TFhLdmitN-IMGT6ySfBkqgdw9aG5evJdzP9E2O2AlOposjNOP-36aKGZ5NEImtPCnnXL0TJN4BUmeBxV5568b1qobJq0NnPQI8P2nZcXGLKislj-wwf_-JEtIOMS_jeNQ.js?_nc_x=nzUPqFsac6S:1624:595
+
+Dynamically enable window occlusion 1
