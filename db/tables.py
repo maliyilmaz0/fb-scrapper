@@ -21,7 +21,7 @@ create table process(
 create table results(
     id serial primary key,
     process_id int,
-    result json[]
+    result jsonb
 );
 
 
